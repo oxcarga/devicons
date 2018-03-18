@@ -785,3 +785,7 @@
 .devicons-vim:before {
   content: "\e6c5";
 }
+
+.devicons-vuejs:before {
+  content: "\e900";
+}

@@ -4610,7 +4610,41 @@
 			},
 			"setIdx": 0,
 			"iconIdx": 170
-		}
+		},
+		{
+      "icon": {
+        "paths": [
+          "M819.072 68.608l0.128-0.256h-188.8l-118.4 204.8-118.272-204.8h-188.8v0.224h-204.928l512 886.88 512-886.816z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 14,
+        "tags": [
+          "vuejs"
+        ],
+        "colorPermutations": {
+          "11452049812552552551332521135313214646461": [
+            {}
+          ]
+        }
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 400,
+        "id": 171,
+        "name": "vuejs",
+        "prevSize": 32,
+        "code": 59648
+      },
+      "setIdx": 0,
+      "setId": 0,
+      "iconIdx": 171
+    }
 	],
 	"height": 1024,
 	"metadata": {
